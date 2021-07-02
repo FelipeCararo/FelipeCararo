@@ -1,8 +1,6 @@
-<h2 align="center">Felipe Cararo | FullCycle Developer</h2>
+<h2 align="left">Felipe Cararo | FullCycle Developer</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeCararo&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCararo&layout=compact&theme=dracula&custom_title=Linguagens&count_private=true&include_all_commits=true&langs_count=6)  
-![ViewCount](https://komarev.com/ghpvc/?username=FelipeCararo&color=32C955)
+![Felipe Cararo github stats](https://github-readme-stats.vercel.app/api?username=FelipeCararo&count_private=true&show_icons=true)
 
 ### Devops
 <p align="left">
